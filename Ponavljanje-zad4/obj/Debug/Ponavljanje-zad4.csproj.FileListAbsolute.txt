@@ -1,0 +1,8 @@
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad4\Ponavljanje-zad4\bin\Debug\Ponavljanje-zad4.exe.config
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad4\Ponavljanje-zad4\bin\Debug\Ponavljanje-zad4.exe
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad4\Ponavljanje-zad4\bin\Debug\Ponavljanje-zad4.pdb
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad4\Ponavljanje-zad4\obj\Debug\Ponavljanje-zad4.csproj.AssemblyReference.cache
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad4\Ponavljanje-zad4\obj\Debug\Ponavljanje-zad4.csproj.SuggestedBindingRedirects.cache
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad4\Ponavljanje-zad4\obj\Debug\Ponavljanje-zad4.csproj.CoreCompileInputs.cache
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad4\Ponavljanje-zad4\obj\Debug\Ponavljanje-zad4.exe
+C:\Users\piero\Documents\School\NiOP\Ponavljanje-zad4\Ponavljanje-zad4\obj\Debug\Ponavljanje-zad4.pdb
